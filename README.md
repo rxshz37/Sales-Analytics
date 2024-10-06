@@ -1,7 +1,5 @@
 # Sales-Analytics
-Here’s a concise summary for GitHub:
 
----
 
 ### Atliq Grands Hospitality Analysis
 
@@ -34,7 +32,8 @@ Atliq Grands is losing market share and revenue in the luxury/business hotel seg
    - **Action**: Implement promotions for weekdays to improve booking consistency.
 
 This analysis highlights opportunities for Atliq Grands to optimize occupancy, improve customer experience, and focus on direct booking channels.
-Overall Analysis View
+
+**Overall Analysis View**
 ![Screenshot 2024-10-06 191505](https://github.com/user-attachments/assets/942053cd-e4c8-4943-a197-d2337ed837b9)
 
 
